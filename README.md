@@ -1,4 +1,4 @@
-Lihtne terminalipõhine arvutimäng, mis põhineb filmi "Visa Hing 3" stseeni põhjal.
+Lihtne terminalipõhine arvutimäng, mis põhineb filmi "Visa hing 3" stseeni põhjal.
 Juhendid leiad programmi käima pannes või koodi seest.
 Mängu käitamiseks on vaja esmalt installida arvutisse Python, mille leiad siit: https://www.python.org/downloads/
 
