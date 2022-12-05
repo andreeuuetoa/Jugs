@@ -10,3 +10,6 @@ Mängu käitamiseks on vaja esmalt installida arvutisse Python, mille leiad siit
 
 #### ning seejärel käita mäng:
 ```python jugs.py```
+
+Mängu käitamiseks saad ka liikuda failihalduris Jugs kausta, mis asub kataloogis, kuhu selle kloonisid.
+Seejärel tee topeltklõps ikoonil "jugs.py". Ekraanile ilmub aken mänguga.
